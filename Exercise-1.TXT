@@ -1,0 +1,10 @@
+1.Create an entity class employee with below variables.
+	A.emp_id;
+	B.emp_name;
+	C.emp_sal;
+	D.emp_city;
+-perform bellow operations on employee using Annotaions.
+-Insert values into employee table.
+-Update employee salary based on city thay are living.
+-delete record based on emp_id.
+	
